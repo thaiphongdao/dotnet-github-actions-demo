@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: .NET Build and Test
 
 on:
@@ -27,3 +28,34 @@ jobs:
 
     - name: Run tests
       run: dotnet test --no-build --verbosity normal
+=======
+name: .NET Build and Test
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '8.0.x'
+
+    - name: Restore dependencies
+      run: dotnet restore
+
+    - name: Build
+      run: dotnet build --no-restore
+
+    - name: Run tests
+      run: dotnet test --no-build --verbosity normal
+>>>>>>> 6eec7c9c5d71681b243a68747766ac9b7aaf2aab
