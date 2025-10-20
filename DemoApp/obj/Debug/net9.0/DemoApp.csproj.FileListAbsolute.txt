@@ -1,0 +1,15 @@
+D:\Projects\GithubActions\dotnet-github-actions-demo\DemoApp\bin\Debug\net9.0\DemoApp.exe
+D:\Projects\GithubActions\dotnet-github-actions-demo\DemoApp\bin\Debug\net9.0\DemoApp.deps.json
+D:\Projects\GithubActions\dotnet-github-actions-demo\DemoApp\bin\Debug\net9.0\DemoApp.runtimeconfig.json
+D:\Projects\GithubActions\dotnet-github-actions-demo\DemoApp\bin\Debug\net9.0\DemoApp.dll
+D:\Projects\GithubActions\dotnet-github-actions-demo\DemoApp\bin\Debug\net9.0\DemoApp.pdb
+D:\Projects\GithubActions\dotnet-github-actions-demo\DemoApp\obj\Debug\net9.0\DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GithubActions\dotnet-github-actions-demo\DemoApp\obj\Debug\net9.0\DemoApp.AssemblyInfoInputs.cache
+D:\Projects\GithubActions\dotnet-github-actions-demo\DemoApp\obj\Debug\net9.0\DemoApp.AssemblyInfo.cs
+D:\Projects\GithubActions\dotnet-github-actions-demo\DemoApp\obj\Debug\net9.0\DemoApp.csproj.CoreCompileInputs.cache
+D:\Projects\GithubActions\dotnet-github-actions-demo\DemoApp\obj\Debug\net9.0\DemoApp.sourcelink.json
+D:\Projects\GithubActions\dotnet-github-actions-demo\DemoApp\obj\Debug\net9.0\DemoApp.dll
+D:\Projects\GithubActions\dotnet-github-actions-demo\DemoApp\obj\Debug\net9.0\refint\DemoApp.dll
+D:\Projects\GithubActions\dotnet-github-actions-demo\DemoApp\obj\Debug\net9.0\DemoApp.pdb
+D:\Projects\GithubActions\dotnet-github-actions-demo\DemoApp\obj\Debug\net9.0\DemoApp.genruntimeconfig.cache
+D:\Projects\GithubActions\dotnet-github-actions-demo\DemoApp\obj\Debug\net9.0\ref\DemoApp.dll

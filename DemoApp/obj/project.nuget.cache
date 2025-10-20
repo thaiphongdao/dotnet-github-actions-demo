@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LBGeKdlROP0=",
+  "dgSpecHash": "EElpvVP7RfI=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\GithubActions\\DemoApp\\DemoApp.csproj",
+  "projectFilePath": "D:\\Projects\\GithubActions\\dotnet-github-actions-demo\\DemoApp\\DemoApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
